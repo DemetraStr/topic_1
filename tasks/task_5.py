@@ -1,6 +1,6 @@
 a = 10
 b = 3
 
-result = float (10) / 3  # здесь Ваш код
+result = a / b
 
-print("Результат", result)  # допишите код
+print("Результат", float(result))
